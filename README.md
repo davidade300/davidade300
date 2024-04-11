@@ -1,5 +1,6 @@
 ### Hi, i'm David Aderaldo
-A Computer Science undergraduate with a high interest in Java and back-end development
+A Computer Science undergraduate with a high interest in Java and back-end development. Currently my main goals are to
+become a Java back-end Developer and after that i want to learn the Scala language.
 ##
 [![BLOG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-aderaldo/)
 
