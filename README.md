@@ -5,4 +5,4 @@ A Computer Science undergraduate with a high interest in Java and back-end devel
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidade300&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidade300a&layout=donut)](https://github.com/davidade300/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidade300&layout=donut)](https://github.com/davidade300/github-readme-stats)
