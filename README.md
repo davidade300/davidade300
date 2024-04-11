@@ -11,8 +11,7 @@ A Computer Science undergraduate with a high interest in Java and back-end devel
 
 <div style="display: inline-block"><br>
     <img align="center" alt="html5" 
-    src="https://img.shields.io/badge/
-    Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="html5" 
     src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="html5" 
