@@ -23,5 +23,5 @@ I have a high interest in back-end development and data infrastructure.
     <img align="center" alt="html5" 
     src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
       <img align="center" alt="html5" 
-    src=https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+    src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
