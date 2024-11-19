@@ -1,7 +1,7 @@
 ### Hi, i'm David Aderaldo
-A Computer Science undergraduate with a high interest in Java and back-end development.
-You will probably find a ton of unfinished projects in here but that`s mainly due to having to my internship at TOTVS taking up most of my time.
-I have a high interest in back-end development and data infrastructure. I'm currently not very active in github due to me effing around and finding out about how stuff like ssh and other communication protocols work.
+A Computer Science undergraduate with a high interest in back-end development and data engineering.
+You will probably find a ton of unfinished projects in here(that`s mainly due to having to my work as a bilngual supervisor in a Call Center) but in working on fixing that.
+I have a high interest in back-end development and data infrastructure.
 
 [![BLOG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-aderaldo/)
 
