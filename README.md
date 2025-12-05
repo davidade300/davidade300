@@ -3,10 +3,9 @@ A Computer Science undergraduate with a high interest in back-end development an
 You will probably find a ton of unfinished projects in here(that`s mainly due to having to my work as a bilngual supervisor in a Call Center) but in working on fixing that.
 I have a high interest in back-end development and data infrastructure.
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidade300&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidade300&layout=compact&cache_seconds=86400)
-
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidade300&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidade300&theme=radical)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidade300&theme=radical)
 ## Daily used technologies
  
 <div style="display: inline-block"><br>
