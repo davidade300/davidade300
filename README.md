@@ -10,7 +10,7 @@ I have a high interest in back-end development and data infrastructure.
 
 
 ## Daily used technologies
-
+ 
 <div style="display: inline-block"><br>
     <img align="center" alt="html5" 
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
