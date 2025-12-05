@@ -3,10 +3,8 @@ A Computer Science undergraduate with a high interest in back-end development an
 You will probably find a ton of unfinished projects in here(that`s mainly due to having to my work as a bilngual supervisor in a Call Center) but in working on fixing that.
 I have a high interest in back-end development and data infrastructure.
 
-[![BLOG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-aderaldo/)
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidade300&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidade300&layout=compact)
-
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidade300&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidade300&layout=compact&cache_seconds=86400)
 
 
 ## Daily used technologies
