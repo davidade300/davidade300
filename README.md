@@ -9,7 +9,7 @@ I have a high interest in back-end development and data infrastructure.
 ## Daily used technologies
  
 <div style="display: inline-block"><br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/fastapi-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
     <img align="center" alt="html5" 
     src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="html5" 
