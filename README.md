@@ -21,7 +21,7 @@ I have a high interest in back-end development and data infrastructure.
     <img align="center" alt="html5" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/gnubash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
     <img align="center" alt="html5" 
     src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="html5" 
