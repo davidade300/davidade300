@@ -31,5 +31,6 @@ I have a high interest in back-end development and data infrastructure.
     <img align="center" alt="html5" src="https://img.shields.io/badge/pipx-2CFFAA?style=for-the-badge&logo=pipx&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
