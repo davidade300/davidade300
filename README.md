@@ -14,6 +14,9 @@ I have a high interest in back-end development and data infrastructure.
     <img align="center" alt="html5" src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/jinja-7E0C1B?style=for-the-badge&logo=jinja&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="html5" 
     src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="html5" 
