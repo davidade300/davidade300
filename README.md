@@ -2,7 +2,7 @@
 A Computer Science undergraduate with a high interest in full-stack development and data engineering/integration.
 In here you will find my projects (some finished, others not), exercices for online courses and applications built alongside books I'm currently a backend/ data integration intern at "Grupo Ecomp" where i spend most of my days building end to end data pipelines and api's for data integration and report automation.
 
-I am currently looking for a remote (since i live in brazil) entry level full-stack developer position or backend developer.
+I am currently looking for a entry level full-stack developer position or backend developer.
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidade300&theme=radical)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidade300&theme=radical)
