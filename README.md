@@ -7,9 +7,18 @@ I am currently looking for a entry level full-stack developer position or backen
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidade300&theme=radical)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidade300&theme=radical)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidade300&theme=radical)
+
 ## Daily used technologies
  
 <div style="display: inline-block"><br>
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img align="center" alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+    <img align="center" alt="kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+    <img align="center" alt="maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+    <img align="center" alt="junit" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+    <img align="center" alt="mockito" src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white">
+    <img align="center" alt="redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
