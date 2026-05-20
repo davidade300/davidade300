@@ -8,7 +8,7 @@ I am currently looking for a entry level software engineer position.
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidade300&theme=radical)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidade300&theme=radical)
 
-## Technologies
+## Tech Stack
 
 ### Java
 <div style="display: inline-block"><br>
