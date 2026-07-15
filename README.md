@@ -21,4 +21,4 @@ SQLAlchemy, Docker, Linux
 Based in Recife/PE, Brazil. Also available in Natal or Fortaleza. Open to
 backend, full-stack, and integration roles — remote or on-site.
 
-[LinkedIn](https://www.linkedin.com/in/david-aderaldo/) · iaderinho@icloud.com
+[LinkedIn](https://www.linkedin.com/in/david-aderaldo/) · davidade.dev@gmail.com · iaderinho@icloud.com
