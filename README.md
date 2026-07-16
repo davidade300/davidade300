@@ -1,24 +1,26 @@
 # David Aderaldo
 
-Backend engineer working on production integrations and event-driven systems.
+Desenvolvedor backend — sistemas completos, integrações e a infraestrutura por baixo.
 
-Most of what I've built connects things that weren't designed to talk to each
-other — ERPs, CRMs, and service platforms — and keeps them talking without
-someone babysitting the pipeline. I've owned that work end to end: domain
-modeling, business rules, tests, deploy, and the infrastructure underneath it.
+Integro sistemas que não conversam entre si: CRMs, ERPs, plataformas de
+atendimento e instituições bancárias. Dentre os meus projetos profissionais,
+gosto de destacar o mais completo: uma API que virou uma etapa intermediária de
+análise de viabilidade de proposta dentro de um funil de vendas — fui dono do
+projeto de ponta a ponta, das entrevistas de requisitos à operação. As decisões
+técnicas eram minhas, e a conta de errar também.
 
-I care about *why* a tool exists before I reach for it, and I write code on the
-assumption that I don't want to be maintaining it later — defensive validation,
-idempotency, and explicit error handling from the start rather than bolted on
-after the first outage.
+Não me intimido com o que não sei: antes de adotar uma ferramenta, quero
+entender por que ela existe e que problema resolve. O que eu entrego é feito
+para rodar sozinho — aplicações simples de operar e fáceis de manter.
 
-Currently deepening: distributed systems, messaging, and the operational side —
-Linux, Docker, reverse proxies, production deploys.
+Atualmente aprofundando: sistemas distribuídos, mensageria e no lado operacional:
+servidores Linux, Docker, proxies reversos, deploy em produção.
 
-**Working with:** Python (FastAPI), Java (Spring Boot), Kafka, PostgreSQL,
-SQLAlchemy, Docker, Linux
+**Trabalho com:** Python (FastAPI/Flask) · Java (Spring Boot) · React/TS · Kafka
+· PostgreSQL · Docker · Linux
 
-Based in Recife/PE, Brazil. Also available in Natal or Fortaleza. Open to
-backend, full-stack, and integration roles — remote or on-site.
+Recife/PE, Brasil — também disponível de forma imediata em Natal ou Fortaleza.
+Aberto a vagas de backend, full-stack e integrações, remoto ou presencial.
 
+[david-aderaldo.com.br](https://david-aderaldo.com.br) ·
 [LinkedIn](https://www.linkedin.com/in/david-aderaldo/) · davidade.dev@gmail.com
